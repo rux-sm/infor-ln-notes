@@ -1,15 +1,4 @@
 {
-  "../../../../Users/rux/Documents/infor_ln_docs/portal/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-CY58oghX.js",
-    "name": "layout-segment-context",
-    "src": "../../../../Users/rux/Documents/infor_ln_docs/portal/node_modules/vinext/dist/shims/layout-segment-context.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-BmMkGQIK.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-C0HEwwYJ.js"
-    ]
-  },
   "_framework-C0HEwwYJ.js": {
     "file": "infor-ln-notes/_next/static/chunks/framework-C0HEwwYJ.js",
     "name": "framework",
@@ -17,8 +6,8 @@
       "_rolldown-runtime-BmMkGQIK.js"
     ]
   },
-  "_generated-data-BSefxT5r.js": {
-    "file": "infor-ln-notes/_next/static/chunks/generated-data-BSefxT5r.js",
+  "_generated-data-CWrtyJQ7.js": {
+    "file": "infor-ln-notes/_next/static/chunks/generated-data-CWrtyJQ7.js",
     "name": "generated-data"
   },
   "_rolldown-runtime-BmMkGQIK.js": {
@@ -26,29 +15,40 @@
     "name": "rolldown-runtime"
   },
   "components/GuideRunner.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/GuideRunner-Dm1V9ABw.js",
+    "file": "infor-ln-notes/_next/static/chunks/GuideRunner-DdFseoq8.js",
     "name": "GuideRunner",
     "src": "components/GuideRunner.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-BmMkGQIK.js",
-      "_framework-C0HEwwYJ.js",
-      "_generated-data-BSefxT5r.js"
+      "_generated-data-CWrtyJQ7.js",
+      "_framework-C0HEwwYJ.js"
     ]
   },
   "components/IssueExplorer.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-BYTt_kgf.js",
+    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-B0QCwIYe.js",
     "name": "IssueExplorer",
     "src": "components/IssueExplorer.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-BmMkGQIK.js",
-      "_framework-C0HEwwYJ.js",
-      "_generated-data-BSefxT5r.js"
+      "_generated-data-CWrtyJQ7.js",
+      "_framework-C0HEwwYJ.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-lQcqtH9W.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-BmMkGQIK.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-C0HEwwYJ.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "infor-ln-notes/_next/static/chunks/index-CZm5ZSJ0.js",
+    "file": "infor-ln-notes/_next/static/chunks/index-B0Vt7XJq.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -58,9 +58,9 @@
     ],
     "dynamicImports": [
       "virtual:vinext-app-browser-entry",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/GuideRunner.tsx",
-      "components/IssueExplorer.tsx",
-      "../../../../Users/rux/Documents/infor_ln_docs/portal/node_modules/vinext/dist/shims/layout-segment-context.js"
+      "components/IssueExplorer.tsx"
     ]
   }
 }
