@@ -6,38 +6,49 @@
       "_rolldown-runtime-BmMkGQIK.js"
     ]
   },
-  "_generated-data-BqddUes2.js": {
-    "file": "infor-ln-notes/_next/static/chunks/generated-data-BqddUes2.js",
+  "_generated-data-BTMGYRJ5.js": {
+    "file": "infor-ln-notes/_next/static/chunks/generated-data-BTMGYRJ5.js",
     "name": "generated-data"
   },
   "_rolldown-runtime-BmMkGQIK.js": {
     "file": "infor-ln-notes/_next/static/chunks/rolldown-runtime-BmMkGQIK.js",
     "name": "rolldown-runtime"
   },
+  "components/AppShell.tsx": {
+    "file": "infor-ln-notes/_next/static/chunks/AppShell-BBEU5g7j.js",
+    "name": "AppShell",
+    "src": "components/AppShell.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-BmMkGQIK.js",
+      "_framework-C0HEwwYJ.js"
+    ]
+  },
   "components/GuideRunner.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/GuideRunner-CTCwi5CG.js",
+    "file": "infor-ln-notes/_next/static/chunks/GuideRunner-CMsaGyWv.js",
     "name": "GuideRunner",
     "src": "components/GuideRunner.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-BmMkGQIK.js",
-      "_generated-data-BqddUes2.js",
+      "components/AppShell.tsx",
+      "_generated-data-BTMGYRJ5.js",
       "_framework-C0HEwwYJ.js"
     ]
   },
   "components/IssueExplorer.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-d-m-ozJL.js",
+    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-CObG2fLk.js",
     "name": "IssueExplorer",
     "src": "components/IssueExplorer.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-BmMkGQIK.js",
-      "_generated-data-BqddUes2.js",
+      "_generated-data-BTMGYRJ5.js",
       "_framework-C0HEwwYJ.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-BO1-UC9F.js",
+    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-eR5nQ7QX.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -48,7 +59,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "infor-ln-notes/_next/static/chunks/index-23jwQz66.js",
+    "file": "infor-ln-notes/_next/static/chunks/index-FfdMovuj.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -60,6 +71,7 @@
       "virtual:vinext-app-browser-entry",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/GuideRunner.tsx",
+      "components/AppShell.tsx",
       "components/IssueExplorer.tsx"
     ]
   }
