@@ -6,8 +6,8 @@
       "_rolldown-runtime-BmMkGQIK.js"
     ]
   },
-  "_generated-data-BTMGYRJ5.js": {
-    "file": "infor-ln-notes/_next/static/chunks/generated-data-BTMGYRJ5.js",
+  "_generated-data-CeguM9uA.js": {
+    "file": "infor-ln-notes/_next/static/chunks/generated-data-CeguM9uA.js",
     "name": "generated-data"
   },
   "_rolldown-runtime-BmMkGQIK.js": {
@@ -25,30 +25,40 @@
     ]
   },
   "components/GuideRunner.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/GuideRunner-DQzTtMEW.js",
+    "file": "infor-ln-notes/_next/static/chunks/GuideRunner-6soBmxb-.js",
     "name": "GuideRunner",
     "src": "components/GuideRunner.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-BmMkGQIK.js",
       "components/AppShell.tsx",
-      "_generated-data-BTMGYRJ5.js",
+      "_generated-data-CeguM9uA.js",
       "_framework-C0HEwwYJ.js"
     ]
   },
   "components/IssueExplorer.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-CObG2fLk.js",
+    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-67Khk9E-.js",
     "name": "IssueExplorer",
     "src": "components/IssueExplorer.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-BmMkGQIK.js",
-      "_generated-data-BTMGYRJ5.js",
+      "_generated-data-CeguM9uA.js",
+      "_framework-C0HEwwYJ.js"
+    ]
+  },
+  "components/PhaseRail.tsx": {
+    "file": "infor-ln-notes/_next/static/chunks/PhaseRail-CUVmjdWd.js",
+    "name": "PhaseRail",
+    "src": "components/PhaseRail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-BmMkGQIK.js",
       "_framework-C0HEwwYJ.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-BGJ5wZJn.js",
+    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-B8fpdpcA.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -59,7 +69,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "infor-ln-notes/_next/static/chunks/index-CaC6Y1Zv.js",
+    "file": "infor-ln-notes/_next/static/chunks/index-DZnAOxDG.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -72,7 +82,8 @@
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/GuideRunner.tsx",
       "components/AppShell.tsx",
-      "components/IssueExplorer.tsx"
+      "components/IssueExplorer.tsx",
+      "components/PhaseRail.tsx"
     ]
   }
 }
