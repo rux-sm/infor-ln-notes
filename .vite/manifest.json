@@ -37,7 +37,7 @@
     ]
   },
   "components/IssueExplorer.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-BYqlourT.js",
+    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-C9nHyEds.js",
     "name": "IssueExplorer",
     "src": "components/IssueExplorer.tsx",
     "isDynamicEntry": true,
@@ -48,7 +48,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-KuOgK288.js",
+    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-DYSuyHiA.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -59,7 +59,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "infor-ln-notes/_next/static/chunks/index-CZhC9aXP.js",
+    "file": "infor-ln-notes/_next/static/chunks/index-Be8uccV5.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
