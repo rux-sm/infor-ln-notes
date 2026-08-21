@@ -6,16 +6,12 @@
       "_rolldown-runtime-BmMkGQIK.js"
     ]
   },
-  "_generated-data-BjW7Ajsj.js": {
-    "file": "infor-ln-notes/_next/static/chunks/generated-data-BjW7Ajsj.js",
-    "name": "generated-data"
-  },
   "_rolldown-runtime-BmMkGQIK.js": {
     "file": "infor-ln-notes/_next/static/chunks/rolldown-runtime-BmMkGQIK.js",
     "name": "rolldown-runtime"
   },
   "components/AppShell.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/AppShell-A4ktOp-3.js",
+    "file": "infor-ln-notes/_next/static/chunks/AppShell-DmDJmovF.js",
     "name": "AppShell",
     "src": "components/AppShell.tsx",
     "isDynamicEntry": true,
@@ -24,31 +20,18 @@
       "_framework-C0HEwwYJ.js"
     ]
   },
-  "components/GuideRunner.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/GuideRunner-AJqIo27A.js",
-    "name": "GuideRunner",
-    "src": "components/GuideRunner.tsx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-BmMkGQIK.js",
-      "components/AppShell.tsx",
-      "_generated-data-BjW7Ajsj.js",
-      "_framework-C0HEwwYJ.js"
-    ]
-  },
   "components/IssueExplorer.tsx": {
-    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-B3KCyGc-.js",
+    "file": "infor-ln-notes/_next/static/chunks/IssueExplorer-CFUChAdG.js",
     "name": "IssueExplorer",
     "src": "components/IssueExplorer.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-BmMkGQIK.js",
-      "_generated-data-BjW7Ajsj.js",
       "_framework-C0HEwwYJ.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-CrLUbDCz.js",
+    "file": "infor-ln-notes/_next/static/chunks/layout-segment-context-D3JtmHKN.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -59,7 +42,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "infor-ln-notes/_next/static/chunks/index-C_hACusI.js",
+    "file": "infor-ln-notes/_next/static/chunks/index-D-Q-yT4R.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -70,7 +53,6 @@
     "dynamicImports": [
       "virtual:vinext-app-browser-entry",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
-      "components/GuideRunner.tsx",
       "components/AppShell.tsx",
       "components/IssueExplorer.tsx"
     ]
